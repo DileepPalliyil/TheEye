@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Image_Type">
+        <item>Vehicle</item>
+        <item>Insurance</item>
+        <item>Fitness</item>
+        <item>Permit</item>
+    </string-array>
+
+    <string name="app_name">TheEye</string>
+    <string name="action_settings">Settings</string>
+    <string name="spinner_title">Select Vehicle</string>
+    <string name="spinner2_title">Image Type</string>
+</resources>
